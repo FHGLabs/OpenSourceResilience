@@ -10,9 +10,9 @@ Bolstering Democratic Resilience through OSINT: Informing Responses to Chinese S
 **Workshop Format**
 Duration: 90 minutes
 
-Methodology: Interactive, group-based activities
+**Methodology:** Interactive, group-based activities
 
-Key Components:
+**Key Components:**
 Introduction to OSINT and 4th Industrial Revolution
 Group activities on identifying and analyzing critical technologies
 Utilization of tools like ASPI’s "Mapping China's Tech Giants" and Bellingcat's Online Investigation Toolkit
